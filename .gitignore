@@ -1,6 +1,8 @@
 data/*
+!data/.gitkeep
 **/__pycache__
 model/*
+!model/model1.pkl
 auth.py
 
 
